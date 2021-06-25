@@ -14,15 +14,15 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Welcome to JorgeenDev</h1>
       <h2>
-        Deployed with{' '}
+        Deployed by{' '}
         <a
-          href="https://vercel.com/docs"
+          href="https://github.com/kiketion"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+          kiketion
         </a>
         !
       </h2>
